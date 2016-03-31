@@ -1,0 +1,31 @@
+﻿<xapCache source="C:\data\Development\games\Unity Projects\AdMobWp8Pack\wp8\AdMobWp8Pack\Bin\x86\Debug\AdMobWp8Pack_Debug_x86.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="16.03.2016 12:04:15">
+  <file source="C:\data\Development\games\Unity Projects\AdMobWp8Pack\wp8\AdMobWp8Pack\obj\x86\Debug\AdMobWp8Pack.dll" archivePath="AdMobWp8Pack.dll" lastWriteTime="16.03.2016 12:04:05" />
+  <file source="C:\data\Development\games\Unity Projects\AdMobWp8Pack\wp8\AdMobWp8Pack\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="12.12.2015 2:13:42" />
+  <file source="C:\data\Development\games\Unity Projects\AdMobWp8Pack\wp8\AdMobWp8Pack\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="12.12.2015 2:13:42" />
+  <file source="C:\data\Development\games\Unity Projects\AdMobWp8Pack\wp8\AdMobWp8Pack\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="12.12.2015 2:13:42" />
+  <file source="C:\data\Development\games\Unity Projects\AdMobWp8Pack\wp8\AdMobWp8Pack\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="12.12.2015 2:13:42" />
+  <file source="C:\data\Development\games\Unity Projects\AdMobWp8Pack\wp8\AdMobWp8Pack\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="12.12.2015 2:13:42" />
+  <file source="C:\data\Development\games\Unity Projects\AdMobWp8Pack\wp8\AdMobWp8Pack\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="12.12.2015 2:13:42" />
+  <file source="C:\data\Development\games\Unity Projects\AdMobWp8Pack\wp8\AdMobWp8Pack\Data\level0" archivePath="Data\level0" lastWriteTime="16.03.2016 12:02:39" />
+  <file source="C:\data\Development\games\Unity Projects\AdMobWp8Pack\wp8\AdMobWp8Pack\Data\mainData" archivePath="Data\mainData" lastWriteTime="16.03.2016 12:02:40" />
+  <file source="C:\data\Development\games\Unity Projects\AdMobWp8Pack\wp8\AdMobWp8Pack\Data\managedAssemblies.txt" archivePath="Data\managedAssemblies.txt" lastWriteTime="16.03.2016 12:02:59" />
+  <file source="C:\data\Development\games\Unity Projects\AdMobWp8Pack\wp8\AdMobWp8Pack\Data\Resources\unity default resources" archivePath="Data\Resources\unity default resources" lastWriteTime="12.12.2015 3:24:16" />
+  <file source="C:\data\Development\games\Unity Projects\AdMobWp8Pack\wp8\AdMobWp8Pack\Data\Resources\unity_builtin_extra" archivePath="Data\Resources\unity_builtin_extra" lastWriteTime="16.03.2016 12:02:40" />
+  <file source="C:\data\Development\games\Unity Projects\AdMobWp8Pack\wp8\AdMobWp8Pack\Data\sharedassets0.assets" archivePath="Data\sharedassets0.assets" lastWriteTime="16.03.2016 12:02:40" />
+  <file source="C:\data\Development\games\Unity Projects\AdMobWp8Pack\wp8\AdMobWp8Pack\Data\sharedassets1.assets" archivePath="Data\sharedassets1.assets" lastWriteTime="16.03.2016 12:02:40" />
+  <file source="C:\data\Development\games\Unity Projects\AdMobWp8Pack\wp8\AdMobWp8Pack\Bin\x86\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="15.03.2016 23:44:08" />
+  <file source="C:\data\Development\games\Unity Projects\AdMobWp8Pack\wp8\AdMobWp8Pack\Bin\x86\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="12.12.2015 2:13:42" />
+  <file source="C:\data\Development\games\Unity Projects\AdMobWp8Pack\wp8\AdMobWp8Pack\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="12.12.2015 2:13:42" />
+  <file source="C:\data\Development\games\Unity Projects\AdMobWp8Pack\wp8\AdMobWp8Pack\Assembly-CSharp-firstpass.dll" archivePath="Assembly-CSharp-firstpass.dll" lastWriteTime="16.03.2016 12:02:58" />
+  <file source="C:\data\Development\games\Unity Projects\AdMobWp8Pack\wp8\AdMobWp8Pack\Assembly-CSharp.dll" archivePath="Assembly-CSharp.dll" lastWriteTime="16.03.2016 12:02:58" />
+  <file source="C:\data\Development\games\Unity Projects\AdMobWp8Pack\wp8\Players\x86\Release\BridgeInterface.winmd" archivePath="BridgeInterface.winmd" lastWriteTime="12.12.2015 3:44:26" />
+  <file source="C:\data\Development\games\Unity Projects\AdMobWp8Pack\wp8\AdMobWp8Pack\GoogleAds.dll" archivePath="GoogleAds.dll" lastWriteTime="16.03.2016 12:02:59" />
+  <file source="C:\data\Development\games\Unity Projects\AdMobWp8Pack\wp8\AdMobWp8Pack\UnityEngine.dll" archivePath="UnityEngine.dll" lastWriteTime="16.03.2016 12:02:58" />
+  <file source="C:\data\Development\games\Unity Projects\AdMobWp8Pack\wp8\AdMobWp8Pack\UnityEngine.Networking.dll" archivePath="UnityEngine.Networking.dll" lastWriteTime="16.03.2016 12:02:59" />
+  <file source="C:\data\Development\games\Unity Projects\AdMobWp8Pack\wp8\AdMobWp8Pack\UnityEngine.UI.dll" archivePath="UnityEngine.UI.dll" lastWriteTime="16.03.2016 12:02:59" />
+  <file source="C:\data\Development\games\Unity Projects\AdMobWp8Pack\wp8\Players\x86\Release\UnityPlayer.winmd" archivePath="UnityPlayer.winmd" lastWriteTime="12.12.2015 3:46:48" />
+  <file source="C:\data\Development\games\Unity Projects\AdMobWp8Pack\wp8\Players\x86\Release\WinRTBridge.dll" archivePath="WinRTBridge.dll" lastWriteTime="12.12.2015 3:44:26" />
+  <file source="C:\data\Development\games\Unity Projects\AdMobWp8Pack\wp8\AdMobWp8Pack\WinRTLegacy.dll" archivePath="WinRTLegacy.dll" lastWriteTime="12.12.2015 3:29:28" />
+  <file source="C:\data\Development\games\Unity Projects\AdMobWp8Pack\wp8\Players\x86\Release\UnityPlayer.dll" archivePath="UnityPlayer.dll" lastWriteTime="12.12.2015 3:47:10" />
+  <file source="C:\data\Development\games\Unity Projects\AdMobWp8Pack\wp8\AdMobWp8Pack\Bin\x86\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="15.03.2016 23:44:09" />
+</xapCache>
